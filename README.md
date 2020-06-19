@@ -11,15 +11,15 @@ Follow [this link](https://yours-kkuznets.github.io/Coinchange-Crypto-Tracker/) 
 
 ### Desktop
 
-<img src="./image/Capture1.png" alt=" desktop screenshot"/>
-<img src="./image/Capture2.png" alt=" desktop screenshot"/>
-<img src="./image/Capture3.png" alt=" desktop screenshot"/>
-<img src="./image/Capture.png" alt=" desktop screenshot"/>
+<img src="./image/Capture1.PNG" alt=" desktop screenshot"/>
+<img src="./image/Capture2.PNG" alt=" desktop screenshot"/>
+<img src="./image/Capture3.PNG" alt=" desktop screenshot"/>
+<img src="./image/Capture.PNG" alt=" desktop screenshot"/>
 
 
 ## Getting Started
 
-Download (and unpack) or clone the repo, then using a CLI run the following:
+Download or clone the repo, then using a CLI run the following:
 
 npm install
 

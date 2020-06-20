@@ -5,7 +5,7 @@ Tracker your fitness goals quicker with this 'Workout Tracker' application.
 
 ## Link to Application
 
-Follow [this link](https://peaceful-bastion-78213.herokuapp.com/) to view the application.
+Follow [this link](https://quiet-chamber-70936.herokuapp.com/) to view the application.
 
 ## Screenshots
 
